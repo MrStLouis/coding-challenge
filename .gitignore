@@ -1,0 +1,5 @@
+#node modules
+node_modules/*
+
+#sql db config
+db/config/index.js

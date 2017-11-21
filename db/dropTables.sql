@@ -1,0 +1,12 @@
+Use tadb;
+set foreign_key_checks = 0;
+drop table admins;
+drop table classes;
+drop table quizzes;
+drop table schools;
+drop table students;
+drop table students_classes;
+drop table students_teachers;
+drop table teachers;
+drop table topics;
+set foreign_key_checks = 1;
