@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:db": "cd db && node index.js && exit 1",
+    "seed": "node seed.js"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +17,11 @@
     "morgan": "^1.9.0",
     "mysql2": "^1.5.1",
     "sequelize": "^4.22.11"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "npm-run-all": "^4.1.2"
   }
 }

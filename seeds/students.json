@@ -1,0 +1,108 @@
+[
+  { 
+    "name": "Adrian Meza",
+    "email": "adrianme213@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/adrian-meza.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Alex Brawley",
+    "email": "balex8888@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/alex-brawley.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Brendan Viloria",
+    "email": "bjviloria104@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/brendan-viloria.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Brent Eickhoff",
+    "email": "brenteickhoff@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/brent-eickhoff.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Erica Kim",
+    "email": "ericahkim@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/erica-kim.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Fowzia Sharmeen",
+    "email": "fsharmeen00@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268721/react-review/fowzia-sharmeen.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Jacob Perez",
+    "email": "jacobanthony.perez@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/jacob-perez.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Jamie Lo",
+    "email": "jamie.lo112@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/jaime-lo.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Jay Hakjin Kim",
+    "email": "jay.kim.2340@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508269353/react-review/jay-h-kim.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Jeffrey Ueo",
+    "email": "jeffreyueo@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268724/react-review/jeffrey-ueo.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Jerry Tang",
+    "email": "jerica0722@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268722/react-review/jerry-tang.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Kai An David Lee",
+    "email": "david.ka.lee@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268722/react-review/kai-an-david-lee.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Max Lavicka",
+    "email": "max.lavicka@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268722/react-review/max-lavicka.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Michael Walker",
+    "email": "mdubbpro@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/michael-walker.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Niv Salamon",
+    "email": "mnsalamon@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268724/react-review/niv-salamon.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Richard Seung Oh",
+    "email": "sioh89@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268722/react-review/rich-oh.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Ruslan Shneyder",
+    "email": "ruslan.shneyder@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/ruslan-shneyder.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Smita Bhakta",
+    "email": "smitajbhakta@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/smita-bhakta.png",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "William Park",
+    "email": "wjypark94@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508269517/react-review/william-park.gif",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Yi Yang Tan",
+    "email": "yangtan.wfn@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508268723/react-review/yi-yang-tan.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }, { 
+    "name": "Zac St Louis",
+    "email": "p2kmafia@gmail.com",
+    "image": "http://res.cloudinary.com/dyrwrlv2h/image/upload/c_scale,h_150,w_150/v1508269284/react-review/zac-st-louis.jpg",
+    "taking": ["aws", "react for dummies", "angular"]
+  }
+]

@@ -1,0 +1,668 @@
+[{
+  "topic": "aws nonsense",
+  "name": "AWS Nonsense SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+  ]
+}, {
+  "topic": "awsmore nonsense",
+  "name": "Asmore SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+
+  ]
+}, {
+  "topic": "LUL easy",
+  "name": "LUL SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+  ]
+}, {
+  "topic": "I cant explain this",
+  "name": "Explain SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+  ]
+}, {
+  "topic": "mv POW",
+  "name": "POW SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+  ]
+}, {
+  "topic": "ng whatever",
+  "name": "NG-SA1",
+  "scores": [
+    { 
+      "student": {
+        "name": "Adrian Meza"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Alex Brawley"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brendan Viloria"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Brent Eickhoff"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Erica Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Fowzia Sharmeen"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jacob Perez"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jamie Lo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jay Hakjin Kim"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jeffrey Ueo"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Jerry Tang"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Kai An David Lee"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Max Lavicka"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Michael Walker"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Niv Salamon"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Richard Seung Oh"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Ruslan Shneyder"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Smita Bhakta"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "William Park"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Yi Yang Tan"
+      },
+      "score": 100
+    }, { 
+      "student": {
+        "name": "Zac St Louis"
+      },
+      "score": 100
+    }
+  ]
+}]

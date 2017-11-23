@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Jeff",
+    "class": {
+      "name": "aws"
+    },
+    "school": {
+      "name": "HR Los Angeles"
+    }
+  }, 
+  {
+    "name": "Kevin",
+    "class": {
+      "name": "react for dummies"
+    },
+    "school": {
+      "name": "HR Los Angeles"
+    }
+  },
+  {
+    "name": "Google",
+    "class": {
+      "name": "angular"
+    },
+    "school": {
+      "name": "HR Los Angeles"
+    }
+  }
+]

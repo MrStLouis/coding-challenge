@@ -1,0 +1,36 @@
+[
+  {
+    "name": "aws",
+    "topics": [
+      {
+        "name": "aws nonsense"
+      }, {
+        "name": "awsmore nonsense"
+      }
+    ], 
+    "taughtBy": "Jeff",
+    "location": "HR Los Angeles"
+  }, {
+    "name": "react for dummies",
+    "topics": [
+      {
+        "name": "LUL easy"
+      }, {
+        "name": "I cant explain this"
+      }
+    ], 
+    "taughtBy": "Kevin",
+    "location": "HR Los Angeles"
+  }, {
+    "name": "angular",
+    "topics": [
+      {
+        "name": "mv POW"
+      }, {
+        "name": "ng whatever"
+      }
+    ], 
+    "taughtBy": "Google",
+    "location": "HR Los Angeles"
+  }
+]

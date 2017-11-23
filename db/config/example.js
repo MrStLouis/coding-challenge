@@ -6,5 +6,6 @@ module.exports = {
     dialect: '',
     host: '',
     operatorAliases: false,
+    timestamps: false,
   },
 };

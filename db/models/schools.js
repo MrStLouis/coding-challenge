@@ -1,6 +1,8 @@
 module.exports = (sequelize, DataTypes) => {
   const Schools = sequelize.define('Schools', {
     name: DataTypes.STRING,
+  }, {
+    timestamps: false,
   });
 
   Schools.associate = function (models) {
