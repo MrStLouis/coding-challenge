@@ -1,4 +1,4 @@
-const models = require('../db');
+const models = require('../');
 
 module.exports = {
   addSchools: (school) => {

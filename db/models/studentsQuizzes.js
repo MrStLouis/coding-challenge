@@ -4,5 +4,8 @@ module.exports = (sequelize, DataTypes) => {
   }, {
     timestamps: false,
   });
+  // StudentsQuizzes.associate = (models) => {
+  //   StudentsQuizzes.
+  // };
   return StudentsQuizzes;
 };

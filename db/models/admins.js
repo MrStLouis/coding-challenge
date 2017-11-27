@@ -1,6 +1,5 @@
 module.exports = (sequelize, DataTypes) => {
   const Admins = sequelize.define('Admins', {
-    username: DataTypes.STRING,
     name: DataTypes.STRING,
   }, {
     timestamps: false,

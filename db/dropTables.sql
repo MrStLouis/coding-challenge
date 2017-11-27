@@ -10,4 +10,5 @@ drop table students_classes;
 drop table students_quizzes;
 drop table teachers;
 drop table topics;
+drop table users;
 set foreign_key_checks = 1;

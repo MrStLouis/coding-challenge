@@ -1,4 +1,4 @@
-const models = require('../db');
+const models = require('../');
 
 module.exports = {
   addTopics: (topics, classInfo) => new Promise((resolve, reject) => {

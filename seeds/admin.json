@@ -1,11 +1,9 @@
 [
   {
-    "username": "khan",
     "name": "Ghengis Khan",
     "adminOf": "HR Los Angeles"
   }, 
   {
-    "username": "JKang",
     "name": "Justin Khang",
     "adminOf": "HR Los Angeles"
   }

@@ -1,4 +1,4 @@
-const models = require('../db');
+const models = require('../');
 
 module.exports = {
   addTeacher: teacher => new Promise((resolve, reject) => {
@@ -12,7 +12,7 @@ module.exports = {
       reject(err);
     });
   }),
-  getTeacher: teacher => new Promise((resolve, reject) => {
+  getTeacherData: teacher => new Promise((resolve, reject) => {
     module.exports.addTeacher(teacher)
       .then((foundTeacher) => {
         resolve(foundTeacher);
@@ -21,11 +21,27 @@ module.exports = {
       });
   }),
   addTeacherToSchool: (teacher, school) => new Promise((resolve, reject) => {
-    module.exports.getTeacher(teacher)
+    module.exports.getTeacherData(teacher)
       .then((foundTeacher) => {
         return foundTeacher.setSchool(school);
       }).then(() => {
         resolve();
+      }).catch((err) => {
+        reject(err);
+      });
+  }),
+  getAllStudents: teacher => new Promise((resolve, reject) => {
+    module.exports.getTeacherData(teacher)
+      .then((foundTeacher) => {
+        return foundTeacher.getClasses({
+          include: [
+            {
+              model: models.Students,
+            },
+          ],
+        });
+      }).then((allStudents) => {
+        resolve(allStudents);
       }).catch((err) => {
         reject(err);
       });

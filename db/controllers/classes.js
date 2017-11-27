@@ -1,4 +1,4 @@
-const models = require('../db');
+const models = require('../');
 
 module.exports = {
   getClass: classInfo => new Promise((resolve, reject) => {
@@ -49,6 +49,27 @@ module.exports = {
         return foundClass.setTeacher(teacher);
       }).then(() => {
         resolve();
+      }).catch((err) => {
+        reject(err);
+      });
+  }),
+  getClassPerformance: classInfo => new Promise((resolve, reject) => {
+    module.exports.getClass(classInfo)
+      .then((foundClass) => {
+        return foundClass.getTopics({
+          include: [
+            {
+              model: models.Quizzes,
+              include: [
+                {
+                  model: models.Students,
+                },
+              ],
+            },
+          ],
+        });
+      }).then((classPerformance) => {
+        resolve(classPerformance);
       }).catch((err) => {
         reject(err);
       });
