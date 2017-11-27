@@ -6,6 +6,6 @@ const router = express.Router();
 
 // home route
 router.route('/')
-  .get(homeData);
+  .post(homeData);
 
 module.exports = router;
